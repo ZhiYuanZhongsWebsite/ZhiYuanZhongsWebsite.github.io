@@ -2,6 +2,9 @@
 	margin: 0px;
 	padding: 0px;
 }
+#nav {
+	margin-bottom: 10px;
+}
 #navRight {
 	text-align:right;
 }
