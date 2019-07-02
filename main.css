@@ -8,3 +8,6 @@
 #navRight {
 	text-align:right;
 }
+#navRight a {
+	text-decoration:none;
+}
