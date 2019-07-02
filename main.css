@@ -5,6 +5,10 @@
 #nav {
 	margin-bottom: 10px;
 }
+#navLeft img{
+	width: 100px;
+	height: 100px;
+}
 #navRight {
 	text-align:right;
 }
