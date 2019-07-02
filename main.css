@@ -22,7 +22,9 @@
 	top: 50px;
 }
 #navRight {
-	text-align:right;
+	position: absolute;
+	left: 0px;
+	top: 100px;
 }
 #navRight a {
 	position:relative;
