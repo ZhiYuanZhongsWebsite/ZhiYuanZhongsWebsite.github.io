@@ -9,6 +9,12 @@
 	width: 100px;
 	height: 100px;
 }
+#header {
+	font-size:40px;
+	position: absolute;
+	left: 100px;
+	top: 0px;
+}
 #navRight {
 	text-align:right;
 }
