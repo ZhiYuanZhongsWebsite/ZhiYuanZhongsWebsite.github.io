@@ -15,6 +15,12 @@
 	left: 100px;
 	top: 0px;
 }
+#address {
+	font-size: 20px;
+	position: absolute;
+	left: 100px;
+	top: 50px;
+}
 #navRight {
 	text-align:right;
 }
