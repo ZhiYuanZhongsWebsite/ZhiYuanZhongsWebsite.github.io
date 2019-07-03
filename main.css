@@ -22,3 +22,6 @@
 .header li a {
 	text-decoration:none;
 }
+.blackboard {
+	border: 4px solid blue;
+}
