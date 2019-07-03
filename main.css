@@ -1,5 +1,5 @@
-.header h1 {
-	display: inline;
+.header h1 a {
+	text-decoration:none;
 }
 .header ul {
 	display:inline;
