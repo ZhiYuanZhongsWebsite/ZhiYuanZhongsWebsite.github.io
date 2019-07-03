@@ -1,3 +1,7 @@
+.header h1{
+	display:inline;
+	border: 4px solid blue;
+}
 .header h1 a {
 	text-decoration:none;
 }
@@ -6,6 +10,7 @@
 }
 .header li {
 	display:inline;
+	border: 4px solid blue;
 }
 .header li a {
 	text-decoration:none;
