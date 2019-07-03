@@ -4,3 +4,9 @@
 .header ul {
 	display:inline;
 }
+.header li {
+	display:inline;
+}
+.header li a {
+	text-decoration:none;
+}
