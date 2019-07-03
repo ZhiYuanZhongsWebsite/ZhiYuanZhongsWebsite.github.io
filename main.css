@@ -2,8 +2,15 @@
 	width: 200px;
 	height: 100px;
 }
+.headImg {
+	display:inline;
+}
 .header .headImg img {
 	width: 100px;
 	height: 100px;
+	display:inline;
+}
+.headTxt {
+	font-size: 100px;
 	display:inline;
 }
